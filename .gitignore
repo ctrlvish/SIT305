@@ -1,0 +1,7 @@
+.DS_Store
+/.idea/         # IntelliJ/Android Studio settings  
+*.iml           # IDE project files  
+.gradle/        # Gradle build files  
+/build/         # Build output  
+/app/build/     # App-specific build output  
+/local.properties  # Local machine-specific settings  
