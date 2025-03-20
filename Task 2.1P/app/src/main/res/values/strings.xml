@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">w2wrk</string>
+
+    <string-array name="metric_types">
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Temperature</item>
+    </string-array>
+
+    <string-array name="length_units">
+        <item>Inches</item>
+        <item>Feet</item>
+        <item>Yards</item>
+        <item>Miles</item>
+        <item>Centimeters</item>
+        <item>Kilometers</item>
+    </string-array>
+
+    <string-array name="weight_units">
+        <item>Pounds</item>
+        <item>Ounces</item>
+        <item>Tons</item>
+        <item>Kilograms</item>
+        <item>Grams</item>
+    </string-array>
+
+    <string-array name="temp_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
