@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="32dp"
+    tools:context=".ResultActivity">
+
+    <TextView
+        android:id="@+id/feedbackText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"
+        android:text="Feedback"/>
+
+    <TextView
+        android:id="@+id/scoreText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:text="Your Score: 0/4"/>
+
+    <Button
+        android:id="@+id/restartButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Restart Quiz"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        android:id="@+id/finishButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Finish"
+        android:layout_marginTop="8dp"/>
+
+</LinearLayout>
