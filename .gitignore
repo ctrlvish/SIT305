@@ -5,3 +5,4 @@
 /build/         # Build output  
 /app/build/     # App-specific build output  
 /local.properties  # Local machine-specific settings  
+*.env
