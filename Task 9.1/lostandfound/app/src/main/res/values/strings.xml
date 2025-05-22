@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lostandfound</string>
+    <string-array name="post_types">
+        <item>Lost</item>
+        <item>Found</item>
+    </string-array>
+    <string name="google_maps_key">AIzaSyAwHZRoM31UiK4eJc7RehoI7d_JglNhnnw</string>
+</resources>
