@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chatbot</string>
+    <string name="welcome_message">Welcome, Let\'s chat!</string>
+    <string name="username_hint">Enter your username</string>
+    <string name="go_button">Go</string>
+    <string name="type_message_hint">Type a message...</string>
+    <string name="send_button">Send</string>
+    <string name="empty_username_error">Please enter a username</string>
+    <string name="empty_message_error">Please enter a message</string>
+    <string name="connection_error">Error connecting to server</string>
+</resources>
